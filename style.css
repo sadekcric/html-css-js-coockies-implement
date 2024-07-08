@@ -30,6 +30,7 @@
   padding: 20px 8px;
   color: #fff;
   z-index: 1;
+  display: none;
 }
 
 #cookies a {
